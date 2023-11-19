@@ -1,0 +1,9 @@
+.clock-line-util {
+    width: 700px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.clock-line-clocks {
+    display: flex;
+}

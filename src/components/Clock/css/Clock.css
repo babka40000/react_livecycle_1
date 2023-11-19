@@ -1,0 +1,12 @@
+.clock-main {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid blueviolet;
+    margin: 10px;
+}
+
+.clock-row {
+    display: flex;
+    justify-content:space-between;
+}
